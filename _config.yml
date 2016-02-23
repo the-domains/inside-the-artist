@@ -1,0 +1,28 @@
+name: Inside the Artist
+favicon: null
+layout_spectrum: 0.7340810575988144
+typography_spectrum: 0.7240869079250842
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.23295571212656796
+  lightness: 0.7268253131769598
+  saturation: 0.28151583881117404
+  rhythmicContrast: 0.22391510009765625
+purpose: []
